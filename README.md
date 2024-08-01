@@ -12,6 +12,8 @@ Fig. 1. Visual comparison of traditional training and our Source-Free Active Dom
 Thanks for your interest, code and data are being organized and will be online soon!
 
 # Dataset 📊
+<img width="1396" alt="data" src="https://github.com/user-attachments/assets/585243ea-4da6-403a-b831-9b504af9ae1f">
+
 Thanks for your interest, code and data are being organized and will be online soon!
 
 # Citation 📖
