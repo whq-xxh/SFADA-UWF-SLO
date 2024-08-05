@@ -9,7 +9,7 @@ Fig. 1. Visual comparison of traditional training and our Source-Free Active Dom
 <img width="600" alt="compa" src="https://github.com/whq-xxh/Active-GTV-Seg/assets/119860058/faea09fc-2437-434d-a332-356529a101ea">
 
 # How to Run the Code 🛠
-Thanks for your interest, code and data are being organized and will be online soon!
+Thanks for your interest, code and data are being organized and will be online soon (hope before miccai)!
 
 # Dataset 📊
 <img width="1396" alt="data" src="https://github.com/user-attachments/assets/585243ea-4da6-403a-b831-9b504af9ae1f">
