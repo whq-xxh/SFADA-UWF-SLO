@@ -6,13 +6,15 @@ Advancing UWF-SLO Vessel Segmentation with Source-Free Active Domain Adaptation 
 This project introduces a new setting in medical image segmentation, termed **Source-Free Active Domain Adaptation (SFADA)**. SFADA aims to facilitate cross-center medical image segmentation while protecting data privacy and reducing the workload on medical professionals. By requiring only minimal labeling effort, SFADA achieves effective model transfer and results comparable to those of fully supervised approaches.
 
 Fig. 1. Visual comparison of traditional training and our Source-Free Active Domain Adaptation (SFADA) training.
-<img width="600" alt="compa" src="https://github.com/whq-xxh/Active-GTV-Seg/assets/119860058/faea09fc-2437-434d-a332-356529a101ea">
+<img width="833" alt="1727953214369" src="https://github.com/user-attachments/assets/897352e9-78e1-4ba5-ab2d-8ca610a33599">
 
 # How to Run the Code 🛠
 Thanks for your interest, code and data are being organized and will be online soon (hope before miccai)!
 
 # Dataset 📊
 <img width="1396" alt="data" src="https://github.com/user-attachments/assets/585243ea-4da6-403a-b831-9b504af9ae1f">
+For PRIME-FP20, please refer to [here](https://ieeexplore.ieee.org/abstract/document/9208757)
+
 
 Thanks for your interest, busy recently, code and data are being organized and will be online later.
 
