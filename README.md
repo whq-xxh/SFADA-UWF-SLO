@@ -15,7 +15,9 @@ Thanks for your interest, code and data are being organized and will be online s
 <img width="1396" alt="data" src="https://github.com/user-attachments/assets/585243ea-4da6-403a-b831-9b504af9ae1f">
 
 For PRIME-FP20, please refer to this [IEEE article](https://ieeexplore.ieee.org/abstract/document/9208757) and [dataset link](https://ieee-dataport.org/open-access/prime-fp20-ultra-widefield-fundus-photography-vessel-segmentation-dataset).
+
 For Center A,
+
 For Center B,
 
 
