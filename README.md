@@ -9,7 +9,12 @@ Fig. 1. Visual comparison of traditional training and our Source-Free Active Dom
 <img width="833" alt="1727953214369" src="https://github.com/user-attachments/assets/897352e9-78e1-4ba5-ab2d-8ca610a33599">
 
 # How to Run the Code 🛠
-Thanks for your interest, code and data are being organized and will be online soon (hope before miccai)!
+### Environment Installation
+### 1. Training source models in the source center
+For setting up the environment and training the source model, please refer to the [[STDR]](https://github.com/whq-xxh/SFADA-GTV-Seg) project. Please note that some hyperparameters, such as the image input resolution, may need to be adjusted.
+
+### 2. CUP selection strategy
+
 
 # Dataset 📊
 <img width="1396" alt="data" src="https://github.com/user-attachments/assets/585243ea-4da6-403a-b831-9b504af9ae1f">
