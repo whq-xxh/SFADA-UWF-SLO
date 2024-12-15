@@ -14,24 +14,38 @@ Thanks for your interest, code and data are being organized and will be online s
 # Dataset 📊
 <img width="1396" alt="data" src="https://github.com/user-attachments/assets/585243ea-4da6-403a-b831-9b504af9ae1f">
 
-For PRIME-FP20, please refer to this [IEEE article](https://ieeexplore.ieee.org/abstract/document/9208757) and [dataset link](https://ieee-dataport.org/open-access/prime-fp20-ultra-widefield-fundus-photography-vessel-segmentation-dataset).
+For PRIME-FP20: please refer to this [IEEE article](https://ieeexplore.ieee.org/abstract/document/9208757) and [dataset link](https://ieee-dataport.org/open-access/prime-fp20-ultra-widefield-fundus-photography-vessel-segmentation-dataset).
 
-For Center A,
+For Center A: please contact Hongqiu (hongqiuwang16@gmail.com) for the dataset. One step is needed to download the dataset: **1) Use your google email to apply for the download permission ([OneDrive](https://hkustgz-my.sharepoint.com/my?id=%2Fpersonal%2Fhwang007%5Fconnect%5Fhkust%2Dgz%5Fedu%5Fcn%2FDocuments%2F24MICCAI%2DSFADA%2DUWF&sortField=FileLeafRef&isAscending=true) [BaiduPan](https://pan.baidu.com/s/1ESNR_tAFWhK6tfWzcMZuHg)). We just handle the **real-name email** and **your email suffix must match your affiliation**. The email should contain the following information:
 
 For Center B,
 
 
-Thanks for your interest, busy recently, code and data are being organized and will be online later.
+    Name/Homepage/Google Scholar: (Tell us who you are.)
+    Primary Affiliation: (The name of your institution or university, etc.)
+    Job Title: (E.g., Professor, Associate Professor, Ph.D., etc.)
+    Affiliation Email: (the password will be sent to this email, we just reply to the email which is the end of "edu".)
+    How to use: (Only for academic research, not for commercial use or second-development.)
+**The data provided cannot be forwarded to others, and only individuals with approved applications are authorized to use them.**
+
+**Thanks for understanding and cooperation!**
+
+通过网盘分享的文件：CenterA.zip
+链接:  提取码: 24mi 
+--来自百度网盘超级会员v3的分享
+
 
 # Citation 📖
 
 If you find our work useful or relevant to your research, please consider citing:
 ```
-@article{wang2024advancing,
-  title={Advancing UWF-SLO Vessel Segmentation with Source-Free Active Domain Adaptation and a Novel Multi-Center Dataset},
+@inproceedings{wang2024advancing,
+  title={Advancing uwf-slo vessel segmentation with source-free active domain adaptation and a novel multi-center dataset},
   author={Wang, Hongqiu and Luo, Xiangde and Chen, Wu and Tang, Qingqing and Xin, Mei and Wang, Qiong and Zhu, Lei},
-  journal={arXiv preprint arXiv:2406.13645},
-  year={2024}
+  booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
+  pages={75--85},
+  year={2024},
+  organization={Springer}
 }
 ```
 
