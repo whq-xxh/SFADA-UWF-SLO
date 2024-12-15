@@ -19,6 +19,8 @@ Please refer to formulas 1 and 2 in the [[paper]](https://link.springer.com/chap
 ### 3. Finetune the source Model with actively enhanced-pseudo labels 
 Please refer to the [[STDR]](https://github.com/whq-xxh/SFADA-GTV-Seg) project.
 
+**Here is a quick organization of the core code. If you have any questions, feel free to reach out to me. 📮: hongqiuwang16@gmail.com (Wechat: whqqq7).**
+
 # Dataset 📊
 <img width="1396" alt="data" src="https://github.com/user-attachments/assets/585243ea-4da6-403a-b831-9b504af9ae1f">
 
