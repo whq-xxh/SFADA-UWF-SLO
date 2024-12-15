@@ -30,9 +30,6 @@ For Center B,
 
 **Thanks for understanding and cooperation!**
 
-通过网盘分享的文件：CenterA.zip
-链接:  提取码: 24mi 
---来自百度网盘超级会员v3的分享
 
 
 # Citation 📖
