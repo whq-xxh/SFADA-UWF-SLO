@@ -14,7 +14,10 @@ Fig. 1. Visual comparison of traditional training and our Source-Free Active Dom
 For setting up the environment and training the source model, please refer to the [[STDR]](https://github.com/whq-xxh/SFADA-GTV-Seg) project. Please note that some hyperparameters, such as the image input resolution, may need to be adjusted.
 
 ### 2. CUP selection strategy
+Please refer to formulas 1 and 2 in the [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-72114-4_8)  to calculate the values of _Prediction_mask_ and _Uncertainty_ respectively. Then, refer to `Core_Code_OA/divide_patch.py` to split the image into patch-levels. `Core_Code_OA/step1.py` and `Core_Code_OA/step2.py` correspond to the Cascade Uncertainty Predominance (CUP) selection strategy. After completing the CUP selection, refer to `Core_Code_OA/Move.py` and `Core_Code_OA/patch2pic.py` to form the Enhanced-pseudo labels for fine-tuning the target model.
 
+### 3. Finetune the source Model with actively labeled samples 🔧
+Please refer to the [[STDR]](https://github.com/whq-xxh/SFADA-GTV-Seg) project.
 
 # Dataset 📊
 <img width="1396" alt="data" src="https://github.com/user-attachments/assets/585243ea-4da6-403a-b831-9b504af9ae1f">
