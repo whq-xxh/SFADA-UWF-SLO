@@ -26,9 +26,8 @@ Please refer to the [[STDR]](https://github.com/whq-xxh/SFADA-GTV-Seg) project.
 
 For PRIME-FP20: please refer to this [IEEE article](https://ieeexplore.ieee.org/abstract/document/9208757) and [dataset link](https://ieee-dataport.org/open-access/prime-fp20-ultra-widefield-fundus-photography-vessel-segmentation-dataset).
 
-For Center A: please contact Hongqiu (hongqiuwang16@gmail.com) for the dataset. One step is needed to download the dataset: **1) Use your google email to apply for the download permission ([OneDrive](https://hkustgz-my.sharepoint.com/my?id=%2Fpersonal%2Fhwang007%5Fconnect%5Fhkust%2Dgz%5Fedu%5Fcn%2FDocuments%2F24MICCAI%2DSFADA%2DUWF&sortField=FileLeafRef&isAscending=true) [BaiduPan](https://pan.baidu.com/s/1ESNR_tAFWhK6tfWzcMZuHg)). We just handle the **real-name email** and **your email suffix must match your affiliation**. The email should contain the following information:
-
-For Center B, organizing and releasing soon.
+For Center A and Center B:
+please contact Hongqiu (hongqiuwang16@gmail.com) for the dataset. One step is needed to download the dataset: **1) Use your google email to apply for the download permission ([OneDrive](https://hkustgz-my.sharepoint.com/my?id=%2Fpersonal%2Fhwang007%5Fconnect%5Fhkust%2Dgz%5Fedu%5Fcn%2FDocuments%2F24MICCAI%2DSFADA%2DUWF&sortField=FileLeafRef&isAscending=true), [BaiduPan-A](https://pan.baidu.com/s/1ESNR_tAFWhK6tfWzcMZuHg), [BaiduPan-B](https://pan.baidu.com/s/1v_Xr48SSxgvAIbT4t_aHMw)). We just handle the **real-name email** and **your email suffix must match your affiliation**. The email should contain the following information:
 
 
     Name/Homepage/Google Scholar: (Tell us who you are.)
